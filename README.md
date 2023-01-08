@@ -15,3 +15,8 @@ NuGet Packages used:
       Microsoft.EntityFrameworkCore.Tools
       Microsoft.VisualStudio.Web.CodeGeneration.Core
       Microsoft.VisualStudio.Web.CodeGeneration.Design
+      
+Versions: 
+      6.0.11
+      or
+      6.0.12
